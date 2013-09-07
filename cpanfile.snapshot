@@ -1,0 +1,42 @@
+# carton snapshot format: version 1.0
+DISTRIBUTIONS
+  Mouse-1.11
+    pathname: G/GF/GFUJI/Mouse-1.11.tar.gz
+    provides:
+      Mouse 1.11
+      Mouse::Exporter undef
+      Mouse::Meta::Attribute undef
+      Mouse::Meta::Class undef
+      Mouse::Meta::Method undef
+      Mouse::Meta::Method::Accessor undef
+      Mouse::Meta::Method::Constructor undef
+      Mouse::Meta::Method::Delegation undef
+      Mouse::Meta::Method::Destructor undef
+      Mouse::Meta::Module undef
+      Mouse::Meta::Role undef
+      Mouse::Meta::Role::Application undef
+      Mouse::Meta::Role::Application::RoleSummation undef
+      Mouse::Meta::Role::Composite undef
+      Mouse::Meta::Role::Method undef
+      Mouse::Meta::TypeConstraint undef
+      Mouse::Object undef
+      Mouse::PurePerl undef
+      Mouse::Role 1.11
+      Mouse::Spec 1.11
+      Mouse::Tiny 1.11
+      Mouse::TypeRegistry undef
+      Mouse::Util undef
+      Mouse::Util::MetaRole 1.11
+      Mouse::Util::TypeConstraints undef
+      Squirrel undef
+      Squirrel::Role undef
+      Test::Mouse undef
+      ouse undef
+    requirements:
+      Devel::PPPort 3.19
+      ExtUtils::MakeMaker 6.59
+      ExtUtils::ParseXS 2.21
+      Scalar::Util 1.14
+      Test::More 0.88
+      XSLoader 0.02
+      perl 5.006002
