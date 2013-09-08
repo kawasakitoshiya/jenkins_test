@@ -20,5 +20,14 @@ sub sum {
     return $ret;
 };
 
+sub print_stdout {
+    my $self = shift;
+    print STDOUT "stdout";
+};
+
+sub print_stderr {
+    my $self = shift;
+    print STDERR "stderr";
+}
 
 1;
