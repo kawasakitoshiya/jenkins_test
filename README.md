@@ -1,7 +1,6 @@
 # NAME
 
-[![Build Status](http://vps.forceless.jp/jenkins/job/Test/badge/icon)](http://vps.forceless.jp/jenkins/job/Test/)
-[![Build Status](http://vps.forceless.jp/jenkins/buildStatus/icon?job=Test)](http://vps.forceless.jp/jenkins/job/Test/)
+![image](http://vps.forceless.jp/jenkins/job/Test/badge/icon)
 
 Toshiya::Calc - It's new $module
 
