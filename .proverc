@@ -5,3 +5,4 @@
 --merge
 --timer
 --trap
+--formatter TAP::Formatter::JUnit 
